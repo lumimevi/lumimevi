@@ -1,4 +1,6 @@
-# 👩🏻‍💻 Milagros Mendoza
+# 👩🏻‍💻<p align="center"><a href="https://lumimevi.lumimevi"><img width="80%" alt="Hello, I'm Milagros Mendoza" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 **`Ecology and Statistics`**
 

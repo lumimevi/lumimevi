@@ -1,12 +1,11 @@
-# 👩🏻‍💻<p align="center"> <img width="80%" alt="Hello, I'm Milagros Mendoza" src="./assets/gh-readme-header.png" /></a></p>
+## 👩🏻‍💻 Milagros Mendoza
 
-<br />
 
 **`Ecology and Statistics`**
 
-Hi! I’m a data scientist obsessed with patterns—both numerical and real-life. My career path has been a bit "off the beaten track": I’m autistic, hold a double degree in Statistics and Ecology, a master’s in Demography, a specialization in Data Science, and a Ph.D. in Climate Sciences. My brain loves connecting dots across disciplines (and hyper-focusing on random topics for hours—oops!).
+Hi! I’m a data scientist obsessed with patterns—both numerical and real-life. My career path has been a bit "off the beaten track,"  holding a double degree in Statistics and Ecology, a master’s in Demography, a specialization in Data Science, and a Ph.D. in Climate Sciences. My brain loves connecting dots across disciplines (and hyper-focusing on random topics for hours—oops!).
 
-At work, I’m knee-deep in data. I use Python and R to uncover hidden stories—from weather forecasts and biodiversity to agriculture and population studies. My neurodivergence gives me a unique eye for details and patterns, which is handy for spotting insights others might miss.
+At work, I’m knee-deep in data. I use Python and R to uncover hidden stories—from weather forecasts and biodiversity to agriculture and population studies. 
 
 **Outside work, you’ll find me:**
 - 🎻 Playing violin (But only when my cats allow it);

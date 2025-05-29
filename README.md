@@ -21,7 +21,7 @@ I’m an eternally curious soul and see life through a distinctive lens (literal
 
 *Just reach out! (Fair warning: I might randomly drop facts about climate change or felines mid-conversation. 😸)*
 
-P.S. "I once used statistics to calculate the probability of my cat knocking over my coffee… Spoiler: it’s alarmingly high."
+*P.S. "I once used statistics to calculate the probability of my cat knocking over my coffee… Spoiler: it’s alarmingly high."*
 
 
 ### 🧰 Languages and Tools
@@ -33,4 +33,14 @@ P.S. "I once used statistics to calculate the probability of my cat knocking ove
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Rstudio" 
+    title="Rstudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
+/>
+
 

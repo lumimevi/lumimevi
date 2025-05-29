@@ -27,15 +27,15 @@ I’m an eternally curious soul and see life through a distinctive lens (literal
 
  <a href="https://github.com/lumimevi?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Start" 
+            title="Star count GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/lumimevi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/lumimevi?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/lumimevi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>

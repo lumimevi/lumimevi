@@ -4,7 +4,7 @@
 
 Hi! I’m a data scientist obsessed with patterns—both numerical and real-life. My career path has been a bit "off the beaten track": I’m autistic, hold a double degree in Statistics and Ecology, a master’s in Demography, a specialization in Data Science, and a Ph.D. in Climate Sciences. My brain loves connecting dots across disciplines (and hyper-focusing on random topics for hours—oops!).
 
-At work, I’m knee-deep in data. I use Python and R to uncover hidden stories—from weather forecasts and biodiversity to agriculture and population studies. My neurodivergence gives me a unique eye for details and patterns, which comes in super handy for spotting insights others might miss.
+At work, I’m knee-deep in data. I use Python and R to uncover hidden stories—from weather forecasts and biodiversity to agriculture and population studies. My neurodivergence gives me a unique eye for details and patterns, which is handy for spotting insights others might miss.
 
 **Outside work, you’ll find me:**
 - 🎻 Playing violin (But only when my cats allow it);
@@ -29,14 +29,14 @@ I’m an eternally curious soul and see life through a distinctive lens (literal
         <img 
             alt="Start" 
             title="Star count GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lumimevi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/lumimevi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Start"
         />
     </a>
     <a href="https://github.com/lumimevi?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lumimevi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/lumimevi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>

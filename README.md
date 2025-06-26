@@ -20,7 +20,6 @@ I’m an eternally curious soul and see life through a distinctive lens (literal
 
 - Music, cats, or surviving the chaos of hyperfixations…
 
-*Just reach out! (Fair warning: I might randomly drop facts about climate change or felines mid-conversation. 😸)*
 
 *P.S. "I once used statistics to calculate the probability of my cat knocking over my coffee… Spoiler: it’s alarmingly high."*
 
